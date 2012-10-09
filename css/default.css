@@ -1,0 +1,124 @@
+#header
+{
+    height: 120px;
+    margin-top: 3px;
+    margin-left: 60px;
+    padding: 5px;
+}
+#outer3
+{
+    margin-right: 500px;
+}
+#outer1, #outer2
+{
+    float: right;
+    width: 230px;
+}
+#outer1, #outer2, #outer3
+{
+    padding: 10px 10px 32767px 10px;
+    margin-bottom: -32767px;
+}
+#wrapper
+{
+    border-top: double 4px #CCD9DB;
+    overflow: hidden;
+}
+h1
+{
+    width: 70%;
+    margin: 0;
+    padding: 10px 0;
+    color: #000;
+    text-align: center;
+}
+h3
+{
+    margin: 0;
+    padding: 8px 0;
+}
+p
+{
+    margin: 0;
+    padding: 5px 0;
+    text-align: justify;
+}
+#footer
+{
+    border-top: solid 1px #078;
+    clear: both;
+    padding: 5px;
+}
+#footer p, #header p
+{
+    color: #000;
+}
+#footer a
+{
+    color: #000;
+}
+#footer a:hover
+{
+    text-decoration: none;
+}
+#body
+{
+    background: #fcfcfc;
+}
+ul#menu
+{
+    padding: 0 0 0 20px;
+    margin: -3px 0 0 0;
+    list-style: none;
+    float: right;
+}
+ul#menu li
+{
+    display: inline;
+}
+ul#menu li a
+{
+    display: block;
+    float: left;
+    padding: 0 20px 0 0;
+    line-height: 30px;
+    background: url(   '../images/divider.png' ) no-repeat right center;
+    margin-left: -1px;
+    text-decoration: none;
+}
+ul#menu li a b
+{
+    display: block;
+    float: left;
+    padding: 0 0 0 21px;
+    line-height: 30px;
+    color: #069;
+}
+ul#menu li a.last
+{
+    background-image: none;
+}
+ul#menu li a:hover
+{
+    background: url(   '../images/tb.png' ) right top;
+}
+ul#menu li a:hover b
+{
+    background: url(   '../images/tb.png' ) left top;
+    color: #fff;
+    cursor: pointer;
+}
+
+td.s {
+padding-left: 5px;
+}#body #wrapper .largetext p {
+	text-align: justify;
+
+
+}
+#body #wrapper table tr td .largetext2 p {
+	text-align: left;
+}
+#body #wrapper table tr td .largetext2 p {
+	text-align: left;
+}
