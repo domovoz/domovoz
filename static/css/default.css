@@ -22,7 +22,7 @@
 #wrapper
 {
     border-top: double 4px #CCD9DB;
-    overflow: hidden;
+    /*overflow: hidden;*/
 }
 h1
 {
